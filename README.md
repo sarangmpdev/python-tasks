@@ -39,7 +39,9 @@ OutPut:
 2.   Calculates the sum of all integers in this range.
 3.   Displays the final sum.   
 
-OutPut:<img width="899" height="272" alt="image" src="https://github.com/user-attachments/assets/ac6d884e-ab83-4f1a-b6d4-30021355e9ad" />
+OutPut:
+
+  <img width="899" height="272" alt="image" src="https://github.com/user-attachments/assets/ac6d884e-ab83-4f1a-b6d4-30021355e9ad" />
 
 
 
