@@ -27,10 +27,9 @@ Out put:<img width="1010" height="295" alt="image" src="https://github.com/user-
 2. 	Checks whether the number is even or odd using an if-else statement.
 3. 	Displays the result accordingly
  	
-  	OutPut:
- <img width="332" height="125" alt="image" src="https://github.com/user-attachments/assets/ef8e4d39-09f1-4eeb-96cc-70059ce0f696" />
-   OutPut:
- <img width="430" height="130" alt="image" src="https://github.com/user-attachments/assets/51b31ecb-5e2a-480f-a7c3-a1e1fbce77db" />
+  OutPut:<img width="662" height="118" alt="image" src="https://github.com/user-attachments/assets/f2eb1f23-2e02-4af6-afe8-edad68271b2a" />
+   OutPut:<img width="658" height="134" alt="image" src="https://github.com/user-attachments/assets/a353f975-d671-4310-86a6-841783b365e2" />
+
 
     
 
@@ -39,8 +38,8 @@ Out put:<img width="1010" height="295" alt="image" src="https://github.com/user-
 2.   Calculates the sum of all integers in this range.
 3.   Displays the final sum.   
 
-OutPut:
-<img width="339" height="108" alt="image" src="https://github.com/user-attachments/assets/1508b240-feb4-455f-876b-195e80f05df6" />
+OutPut:<img width="899" height="272" alt="image" src="https://github.com/user-attachments/assets/ac6d884e-ab83-4f1a-b6d4-30021355e9ad" />
+
 
 
 
