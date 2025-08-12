@@ -27,9 +27,10 @@ Out put:<img width="1010" height="295" alt="image" src="https://github.com/user-
 2. 	Checks whether the number is even or odd using an if-else statement.
 3. 	Displays the result accordingly
  	
-  OutPut:<img width="662" height="118" alt="image" src="https://github.com/user-attachments/assets/f2eb1f23-2e02-4af6-afe8-edad68271b2a" />
-   OutPut:<img width="658" height="134" alt="image" src="https://github.com/user-attachments/assets/a353f975-d671-4310-86a6-841783b365e2" />
-
+OutPut:
+  
+  <img width="658" height="134" alt="image" src="https://github.com/user-attachments/assets/a353f975-d671-4310-86a6-841783b365e2" />
+  <img width="662" height="118" alt="image" src="https://github.com/user-attachments/assets/f2eb1f23-2e02-4af6-afe8-edad68271b2a" />
 
     
 
