@@ -44,6 +44,17 @@ OutPut:
   <img width="899" height="272" alt="image" src="https://github.com/user-attachments/assets/ac6d884e-ab83-4f1a-b6d4-30021355e9ad" />
 
 
+  ASSIGNMENT 3
+  
+  Task 1: Calculate Factorial Using a Function 
+1.   Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
+2.   Returns the calculated factorial.
+3.   Calls the function with a sample number and prints the output.
+  OutPut:
+  <img width="676" height="152" alt="image" src="https://github.com/user-attachments/assets/8f727f77-ab54-49ba-829c-454c58bdb6b0" />
+
+
+
 
 
 
