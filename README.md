@@ -50,9 +50,18 @@ OutPut:
 1.   Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
 2.   Returns the calculated factorial.
 3.   Calls the function with a sample number and prints the output.
-  OutPut:
-  <img width="676" height="152" alt="image" src="https://github.com/user-attachments/assets/8f727f77-ab54-49ba-829c-454c58bdb6b0" />
+  OutPut:<img width="676" height="152" alt="image" src="https://github.com/user-attachments/assets/8f727f77-ab54-49ba-829c-454c58bdb6b0" />
 
+
+Task 2: Using the Math Module for Calculations 
+1.   Asks the user for a number as input.
+2.   Uses the math module to calculate the:
+o   Square root of the number
+o   Natural logarithm (log base e) of the number
+o   Sine of the number (in radians)
+3.   Displays the calculated results.
+
+OutPut:<img width="608" height="155" alt="image" src="https://github.com/user-attachments/assets/6393ff64-a897-48bd-a47e-db73d8e1ea01" />
 
 
 
