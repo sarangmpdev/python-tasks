@@ -64,7 +64,19 @@ o   Sine of the number (in radians)
 OutPut:<img width="608" height="155" alt="image" src="https://github.com/user-attachments/assets/6393ff64-a897-48bd-a47e-db73d8e1ea01" />
 
 
+ASSIGNMENT 4:
+ 
+Task 1: Read a File and Handle Errors 
+1.   Opens and reads a text file named sample.txt.
+2.   Prints its content line by line.
+3.   Handles errors gracefully if the file does not exist.
+ 
+ Output:
+If the file exists:
+<img width="1565" height="215" alt="image" src="https://github.com/user-attachments/assets/814b0b0a-e24f-489e-a4a4-33acc126a356" />
 
+If the file does not exist:
+<img width="1540" height="163" alt="image" src="https://github.com/user-attachments/assets/297aefde-ce80-4bf7-9d63-f49e3f68f3fc" />
 
 
  
