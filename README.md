@@ -78,5 +78,12 @@ If the file exists:
 If the file does not exist:
 <img width="1540" height="163" alt="image" src="https://github.com/user-attachments/assets/297aefde-ce80-4bf7-9d63-f49e3f68f3fc" />
 
+Task 2: Write and Append Data to a File
+1.   Takes user input and writes it to a file named output.txt.
+2.   Appends additional data to the same file.
+3.   Reads and displays the final content of the file.
+
+   OutPut:
+<img width="1299" height="256" alt="image" src="https://github.com/user-attachments/assets/4a1edf08-10fc-4f2e-a767-ed368cb0eb7b" />
 
  
