@@ -86,4 +86,20 @@ Task 2: Write and Append Data to a File
    OutPut:
 <img width="1299" height="256" alt="image" src="https://github.com/user-attachments/assets/4a1edf08-10fc-4f2e-a767-ed368cb0eb7b" />
 
- 
+
+
+ ASSIGNMENT 5: 
+Task 1: Create a Dictionary of Student Marks
+
+1.   Creates a dictionary where student names are keys and their marks are values.
+2.   Asks the user to input a student's name.
+3.   Retrieves and displays the corresponding marks.
+4.   If the student’s name is not found, display an appropriate message
+
+   if student data have Output:
+   <img width="1221" height="169" alt="image" src="https://github.com/user-attachments/assets/97f3b87e-486d-45d9-a8e7-f1cdc79f9b20" />
+
+   If the student does not exist in the dictionary:
+   <img width="1362" height="182" alt="image" src="https://github.com/user-attachments/assets/811943b5-1cdc-4a7b-b2c9-c2f8e4e612dc" />
+
+
