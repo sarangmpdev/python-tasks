@@ -103,3 +103,12 @@ Task 1: Create a Dictionary of Student Marks
    <img width="1362" height="182" alt="image" src="https://github.com/user-attachments/assets/811943b5-1cdc-4a7b-b2c9-c2f8e4e612dc" />
 
 
+Task 2: Demonstrate List Slicing 
+Problem Statement: Write a Python program that:
+1.   Creates a list of numbers from 1 to 10.
+2.   Extracts the first five elements from the list.
+3.   Reverses these extracted elements.
+4.   Prints both the extracted list and the reversed list
+ 
+Expected Output:
+<img width="1179" height="201" alt="image" src="https://github.com/user-attachments/assets/73e54e2c-ce6f-4110-a381-a3d38f47e407" />
